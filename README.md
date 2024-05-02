@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="120px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nikhil Sharma</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from India, Currently working as System Engineer at TCS.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Full Stack based Project**
+- 🔭 I’m currently working on **Full Stack based Projects in MERN and Python Flask**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
