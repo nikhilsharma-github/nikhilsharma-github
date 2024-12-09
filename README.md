@@ -1,24 +1,23 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="120px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nikhil Sharma</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India, Currently working as System Engineer at TCS.</h3>
+<h3 align="center">I'm a passionate Software Engineer, Currently working as System Engineer at TCS Hyderabad with 1year+ of Experience in ReactJS, Javascript, jQuery, Flask, Oracle DB, MS SQL Server, Python, HTML, CSS, Bootstrap, Ant Design, Redhat Openshift, etc.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Full Stack based Projects in MERN and Python Flask**
+- 🔭 I’m currently working as **Full Stack Developer in TCS Digital**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently improving my Problem solving skills by regularly practicing **Data Structures and Algorithms problems on Leetcode** and also giving Weekly Contests.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects related with ReactJS or some other Frontend Technologies**
   
-- 🎇 I’m looking for an Internship, either **Web Development** based or **SDE intern** 
+- 🎇 I’m looking for more better Full Time Job Roles related with **Full Stack Development** 
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-nikhilsharma-github.vercel.app/)**
 
-- 📫 How to reach me **nikhilsharma.csgeek@gmail.com**
+- 📫 How to reach me **nikhilsharma.csgeek@gmail.com** or **[My LinkedIn]((https://www.linkedin.com/in/nikhil-sharma-7b32601b6/))**
 
-- ⚡ Fun fact **I play video games and love to read books at night.**
 
 ## 🚀 Languages and Tools:
 
