@@ -14,16 +14,16 @@
   
 - 🎇 I’m looking for more better Full Time Job Roles related with **Full Stack Development** 
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-nikhilsharma-github.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-website-nikhilsharma.vercel.app/)**
 
 - 📫 How to reach me **nikhilsharma.csgeek@gmail.com** or **[My LinkedIn](https://www.linkedin.com/in/nikhil-sharma-7b32601b6/)**
 - 🤹🏼‍♀️ My Skillset is :
-- Programming Languages: **C, C++, Java, Python, JavaScript, Typescript, SQL**
+- Programming Languages: ** C++, Java, Python, JavaScript, SQL**
 - Front-end Tech: **React.js, ReduxToolkit, Next.js, jQuery, Bootstrap, Tailwind, MaterialUI, Ant Design, Formik, TanstackTable**
 - Back-end Tech: **Flask, Node.js, Express.js, RESTful APIs, Firebase**
 - Databases: **MySQL, MongoDB, MS SQL Server, Oracle DB**
 - Core Subjects: **Data Structures and Algorithms, Object Oriented Programming Concepts, Operating System, Computer Networks**
-- Tools: **Git, Github, Bigbucket, JIRA, Postman, VSCode, React Bundlers, Redhat Openshift, JupyterNotebook, Tableau,
+- Tools: **Git, Github, Bigbucket, JIRA, Postman, VSCode, React Bundlers, Redhat Openshift, JupyterNotebook, Tableau, AWS,
 GoogleCloudPlatform, Vercel, Agile(Scrum, Kanban)**
 
 ## 🚀 Languages and Tools:
